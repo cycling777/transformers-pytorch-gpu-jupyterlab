@@ -1,11 +1,11 @@
 # transformers-pytorch-gpu-jupyterlab
 You can use transformers models with your nvidia's gpu instantly
 
-#pre-required
+# pre-required
 - nvidia settings(check if you can get your gpu info with ```nvidia-smi``` at command line )
 - docker
 
-#How to use
+# How to use
 ## Install this repository
 ```
 git clone https://github.com/cycling777/transformers-pytorch-gpu-jupyterlab.git
