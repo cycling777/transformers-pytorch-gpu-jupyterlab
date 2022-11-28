@@ -13,7 +13,7 @@ cd transformers-pytorch-gpu-jupyterlab
 ```
 ## Build image
 ```
-docker image build -t torch_gpu:latest
+docker image build . -t torch_gpu:latest
 ```
 ## Run image with nvidia's gpu
 ```
